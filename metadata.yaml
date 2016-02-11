@@ -1,0 +1,28 @@
+_repo: Jumalan-teilla_48005
+contributor:
+  translator:
+    agent_name: Kärkkäinen, Viki
+    gutenberg_agent_id: '44571'
+    url: http://www.gutenberg.org/2009/agents/44571
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2015-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48005'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Jumalan teillä
+url: http://www.gutenberg.org/ebooks/48005
