@@ -1,9 +1,13 @@
 _repo: Jumalan-teilla_48005
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Kärkkäinen, Viki
     gutenberg_agent_id: '44571'
     url: http://www.gutenberg.org/2009/agents/44571
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1772
     wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48005#Jumalan-teilla
 gutenberg_issued: '2015-01-17'
 gutenberg_type: Text
 identifiers:
